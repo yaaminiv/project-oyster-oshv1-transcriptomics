@@ -1,5 +1,5 @@
 #Trim RNASeq data for downstream analyses
-#Script run in /data/users/colleenb/Oyster/00_fastq directory
+#Script run in /data/users/yaamini/
 
 trim_galore \
 --paired \
